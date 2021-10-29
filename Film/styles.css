@@ -1,0 +1,34 @@
+img.awal {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 300px;
+}
+p.gambar {
+    text-align: center;
+    color: white;
+}
+body {
+    background-image: url("latar.jpg");
+}
+h1 {
+    color: whitesmoke;
+}
+p {
+    color:whitesmoke;
+}
+h1.detail {
+    text-align: center;
+}
+img.detail {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 359px;
+}
+p.detail {
+    text-align: justify;
+    color: seashell;
+}
